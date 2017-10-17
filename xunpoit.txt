@@ -1,8 +1,8 @@
 spring  springmvc  mybatis    springboot   hibernate  git  svn 
 
-redis  jquery  easyui  
+redis  jquery  easyui  extjs
 
-oracle mysql  sqlserver
+oracle mysql  sqlserver  db2
 
 
 Ñ¸²©¿Æ¼¼»¶Ó­Äã
